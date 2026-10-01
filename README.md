@@ -89,8 +89,10 @@ All agents share the owner's personal context (background, goals, opinions), so 
 
 ## 🚀 Setup
 
+[⬇️ Download n8n Automation. ](workflow.json)
+
 ### 1. Import the workflow
-In n8n: **Workflows → Import from File** and select `workflow.json`.
+In n8n: **Workflows → Import from File** and select `workflow.json`. 
 
 ### 2. Create the Google Sheet
 Create a sheet with these columns in row 1:
