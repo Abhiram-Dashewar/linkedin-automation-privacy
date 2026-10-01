@@ -42,8 +42,6 @@ The AI generates a short professional LinkedIn post with relevant hashtags, and 
 * **LinkedIn API** - Publishing posts
 * **Cron Schedule** - Automated scheduling
 
----
-
 
 ## ✨ Main Features
 
