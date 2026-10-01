@@ -68,7 +68,7 @@ For complete installation, configuration, LinkedIn Developer setup, API credenti
 
 **Abhiram Dashewar**
 
-[GitHub](YOUR-GITHUB-LINK) · [LinkedIn](YOUR-LINKEDIN-LINK)
+[LinkedIn](https://www.linkedin.com/in/abhiramdashewar)
 
 
 ---
