@@ -4,14 +4,32 @@ A simple **n8n automation that uses AI to generate and publish LinkedIn posts au
 
 The workflow can run on a schedule or manually for testing.
 
-## 🔄 How It Works
+## 🔄 Work-flow
 
 ```
 Schedule / Manual Trigger
           ↓
-   AI Content Generation
+Get previous post details (Google sheets)
           ↓
-      LinkedIn Post
+Topic agent (Generates topic)
+          ↓     
+Duplicate check (To avoid repeated posts)
+          ↓
+Post writer agent (Writes post)
+          ↓
+Image prompt generation 
+          ↓
+Image generation (Cloudflare)
+          ↓
+Mail sent to owner
+          ↓
+Waiting for approval from mail
+          ↓
+LinkedIn Post
+          ↓
+Google sheet updated
+          ↓
+ Repeat
 ```
 
 The AI generates a short professional LinkedIn post with relevant hashtags, and the workflow publishes it directly to LinkedIn.
@@ -54,5 +72,6 @@ For complete installation, configuration, LinkedIn Developer setup, API credenti
 
 [GitHub](YOUR-GITHUB-LINK) · [LinkedIn](YOUR-LINKEDIN-LINK)
 
-```
-```
+
+---
+
