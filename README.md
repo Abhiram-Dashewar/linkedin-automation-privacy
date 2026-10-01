@@ -167,7 +167,7 @@ Suggestions and improvements are welcome. Open an issue or submit a pull request
 
 ## 📄 License
 
-Released under the MIT License. Add a `LICENSE` file to the repository if you haven't already.
+This project is released under the [MIT License](LICENSE).
 
 ---
 
